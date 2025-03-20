@@ -1,0 +1,6 @@
+
+streamlit==1.43.2
+python-docx
+wxPython==4.2.1
+pyperclip
+openpyxl
