@@ -1,6 +1,7 @@
-## Commision Doc Generator 
+# Commision Doc Generator 
 
-# Setup 
+## Setup 
+
 1. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
@@ -26,7 +27,7 @@
    streamlit run copy_xlsx.py
    ````
 
-# Streamlit Steps
+## Streamlit Steps
 
 1. Upload the sales data input file (XLSX)
 2. Enter the path to the workbook template folder
